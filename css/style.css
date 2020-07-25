@@ -1,0 +1,19 @@
+html,
+body {
+    margin: 2rem;
+    font-weight: bold;
+}
+
+.container-fluid{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn.btn-primary.nav{
+    margin: 10px;
+    padding-left: 10px;
+}
+
+.btn.btn-light.id{
+    font-weight: bold;
+}
